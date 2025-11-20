@@ -3,8 +3,7 @@ node_modules/
 *.local
 
 # Build output
-dist/
-dist-ssr/
+
 
 # Project metadata
 .project-name
